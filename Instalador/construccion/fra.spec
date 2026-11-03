@@ -41,6 +41,7 @@ exe = EXE(
     exclude_binaries=True,
     name="FRA",
     console=False,          # app de ventana: sin consola negra
+    icon=os.path.join(SPECPATH, "icono.ico"),
     upx=False,
 )
 

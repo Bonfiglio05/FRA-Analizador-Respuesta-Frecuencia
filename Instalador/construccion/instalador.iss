@@ -2,7 +2,7 @@
 ; Se compila desde construir.bat (que primero genera la carpeta FRA con PyInstaller).
 
 #define NombreApp "FRA - Analizador de Respuesta en Frecuencia"
-#define VersionApp "1.0.0"
+#define VersionApp "1.0.1"
 #ifndef Origen
   #define Origen "build\dist\FRA"
 #endif
@@ -23,6 +23,7 @@ WizardStyle=modern
 PrivilegesRequired=lowest
 ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
+SetupIconFile=icono.ico
 UninstallDisplayIcon={app}\FRA.exe
 DisableProgramGroupPage=yes
 

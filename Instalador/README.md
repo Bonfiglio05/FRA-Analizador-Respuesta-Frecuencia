@@ -9,7 +9,7 @@ Este instalador no requiere tener Python ni instalar nada más.
 
 **Requisitos:** Windows 10 u 11 de 64 bits. No hace falta ser administrador.
 
-1. Descargá `FRA_Instalador_1.0.0.exe` (o la versión más reciente) desde la sección **Releases** de este repositorio.
+1. Descargá `FRA_Instalador_<versión>.exe` (el de la versión más reciente) desde la sección **Releases** de este repositorio.
 2. Ejecutalo y seguí el asistente. Se instala solo para tu usuario y puede crear un acceso directo en el escritorio.
 3. Abrí **FRA** desde el menú Inicio (o el escritorio).
 
