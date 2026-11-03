@@ -1,0 +1,7 @@
+# El instalador (.exe, ~50 MB) no se sube al repositorio: se adjunta como "Release" de GitHub.
+*.exe
+
+# Archivos temporales de construccion
+build/
+dist/
+__pycache__/
